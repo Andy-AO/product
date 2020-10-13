@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+#  程序员如何做自己的产品？
 
-You can use the [editor on GitHub](https://github.com/Andy-AO/product/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+本系列文章会持续更新，watch repo，及时获取更新信息。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](https://cdn.jsdelivr.net/gh/Andy-AO/GitHubPictureBed/img/20201013081955.png)
 
-### Markdown
+- 源文件：[GitHub Repo](https://github.com/Andy-AO/product)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 这个产品真的会有人用吗？
 
-```markdown
-Syntax highlighted code block
+### [掘金](https://juejin.im/post/6844903458294726670)
 
-# Header 1
-## Header 2
-### Header 3
+阴明君发现，前端技术技术迭代周期极速缩短，曾经的技术平台要2\~3年产生重要的版本，而现在已经缩短到2\~3个月。
 
-- Bulleted
-- List
+在内容爆发的背景下，用户获取技术资料的效率问题亟待解决，他创立了掘金来解决这个问题。
 
-1. Numbered
-2. List
+### 用户故事
 
-**Bold** and _Italic_ and `Code` text
+用户故事（User  Story）是敏捷开发中描述产品待办列表的一种方法，它描述了产品/项目实现的具体功能，真正**以用户的视角来表述希望产品/项目提供哪些功能或特性**。
 
-[Link](url) and ![Image](src)
-```
+通常由客户、产品经理或者需求人员来编写，开发人员也可以编写一些非功能的用户故事，比如安全、性能、质量等层面。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+为了辅助用户故事的编写，建议使用**标准的格式**：
 
-### Jekyll Themes
+`作为<某个角色>，我希望<实现某项功能>，以便<带来何种价值>[^1]
+> 摘录自《敏捷开发知识体系》
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Andy-AO/product/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### [DuckDuckGo](https://book.douban.com/subject/25976281/)
 
-### Support or Contact
+温伯格发现谷歌搜索，对于简单的问题不能直接给出答案，而且有很多的垃圾信息，为了解决这两个问题，他创立了DuckDuckGo。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [《学习敏捷》](https://book.douban.com/subject/26979886/)
+
+Andrew 和 Jennifer发现很多的团队，错把敏捷当成另一种形式的上令下行方法，不去拥抱变化而是被变化折磨得死去活来，所以写了这本书来为团队提供克服这些问题的方法。
+
+> 很多书籍都会有「本书的读者对象」这样的章节，来阐明这本书的价值。
+>
+> 比如[《学习敏捷》中就有这样的章节，这里摘录供参考。](.\excerpt\learning-agile.md)
+
+# 找组织
+
+- [独立开发者沙龙](http://costart.top/)
+
+
+
